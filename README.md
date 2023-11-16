@@ -9,3 +9,6 @@ docker build -t testdockerkrish.azurecr.io/mltest:latest .
 docker login testdockerkrish.azurecr.io
 
 docker push testdockerkrish.azurecr.io/mltest:latest
+
+
+NOTE: SPECIAL THANK TO KRISH NAIK FOR such important tutorial
